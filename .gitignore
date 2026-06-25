@@ -1,0 +1,2 @@
+# Subject-level t-maps (regenerate with encoding_model.py / control_variance_pred_fmri.py)
+results/EncodingModel/**/t_map.npy
