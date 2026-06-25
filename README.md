@@ -273,3 +273,9 @@ write_mni_tmaps.py  →  subject-level NIfTI maps
 second_level_permutation_test.py  →  group maps (FWE-corrected)
 ```
 
+---
+
+## Contact
+
+If you have questions about this code, or notice or run into any problems while reproducing the analyses, please contact **Hamed Karimi** at [hamedkk72@gmail.com](mailto:hamedkk72@gmail.com).
+
